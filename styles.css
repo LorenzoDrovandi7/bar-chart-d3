@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  text-align: center;
+}
+
+#chart {
+  margin: auto;
+  width: 900px;
+  height: 500px;
+}
+
+.bar {
+  fill: #c1ecff;
+}
+
+.bar:hover {
+  fill: #a78bfa;
+}
+
+#tooltip {
+  background: #111827;
+  color: #f9fafb;
+  padding: 5px;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 0.9rem;
+}
