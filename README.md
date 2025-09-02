@@ -1,13 +1,13 @@
 # Bar Chart D3
 
-Visualización de datos del PIB de Estados Unidos en una gráfica de barras interactiva usando D3.js.
+Interactive bar chart visualizing United States GDP data using D3.js.
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 - HTML5
 - CSS3
 - JavaScript
 - D3.js v7
 
-## 📊 Datos
-Los datos provienen del dataset público de freeCodeCamp:  
+## 📊 Data
+The data comes from the freeCodeCamp public dataset:  
 [GDP-data.json](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json)
